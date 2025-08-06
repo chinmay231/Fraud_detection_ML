@@ -61,7 +61,7 @@ The Random Forest model perfectly classified both fraud and non-fraud cases, wit
 Confusion matrices are plotted using `seaborn` for all models to compare their predictions clearly.
 
 <p align="center">
-  <img src="confusion_matrices.png" alt="Confusion Matrix Comparison" width="700">
+  <img src="confusion_matrix.png" alt="Confusion Matrix Comparison" width="700">
 </p>
 
 ---
